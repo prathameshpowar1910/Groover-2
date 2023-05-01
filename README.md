@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/105188352/233859499-df46897f-7c88-45f7
 Clone the project
 
 ```bash
-  git clone https://github.com/adityapai1/Groover.git
+  git clone https://github.com/prathameshpowar1910/Groover-2.git
 ```
 
 Go to the project directory
